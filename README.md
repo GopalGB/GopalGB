@@ -37,7 +37,6 @@ I build **autonomous AI systems** that think, decide, and execute 24/7 without h
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [FleetPeek](https://github.com/GopalGB/FleetPeek-Mobile) | GPS fleet tracking — real-time vehicles, alarms, geofencing | React, Spring Boot, MySQL |
 | [Web Scrappie](https://github.com/GopalGB/web-scrappie) | Desktop e-commerce image scraper | Python, Selenium |
 | [AI ATS Resume Maker](https://github.com/GopalGB/AI-ATS-Resume-Maker) | ATS-friendly resume generator | TypeScript, Gemini |
 | [Claw Model Router](https://github.com/GopalGB/claw-model-router) | Cost-aware LLM model routing | Python |
