@@ -18,16 +18,22 @@
 
 ### 🔧 Open Source Contributions
 
-Active contributor across **12 major AI/ML repos** — bug fixes, features, and performance improvements (not just docs).
+Active contributor across **12 major AI/ML repos** — bug fixes, features, and performance improvements.
 
-#### ✅ Merged / Approved
+#### ✅ Merged
+
+| Repo | Stars | Type | PR |
+|------|-------|------|-----|
+| [**mem0ai/mem0**](https://github.com/mem0ai/mem0) | 50K ⭐ | `feat` | Added `reasoning_effort` parameter support for reasoning models + 7 tests ([#4461](https://github.com/mem0ai/mem0/pull/4461)) |
+| [**fastapi/sqlmodel**](https://github.com/fastapi/sqlmodel) | 14K ⭐ | `docs` | Fix typos in contributing.md ([#1842](https://github.com/fastapi/sqlmodel/pull/1842)) |
+| [**huggingface/huggingface_hub**](https://github.com/huggingface/huggingface_hub) | 3.5K ⭐ | `docs` | Fix typos and outdated references in CONTRIBUTING.md ([#4009](https://github.com/huggingface/huggingface_hub/pull/4009)) |
+| [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy) | 33K ⭐ | `docs` | Docstrings for Predict, ReAct & BaseLM APIs ([#9482](https://github.com/stanfordnlp/dspy/pull/9482), [#9486](https://github.com/stanfordnlp/dspy/pull/9486)) |
+
+#### ✅ Approved (Awaiting Merge)
 
 | Repo | Stars | Type | PR |
 |------|-------|------|-----|
 | [**livekit/agents**](https://github.com/livekit/agents) | 9.9K ⭐ | `fix` | Make function call history preservation configurable in AgentTask ([#5288](https://github.com/livekit/agents/pull/5288)) |
-| [**mem0ai/mem0**](https://github.com/mem0ai/mem0) | 50K ⭐ | `feat` | Added `reasoning_effort` parameter support for reasoning models + 7 tests ([#4461](https://github.com/mem0ai/mem0/pull/4461)) |
-| [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy) | 33K ⭐ | `docs` | Docstrings for Predict, ReAct & BaseLM APIs ([#9482](https://github.com/stanfordnlp/dspy/pull/9482)) |
-| [**huggingface/huggingface_hub**](https://github.com/huggingface/huggingface_hub) | 3.5K ⭐ | `docs` | Fix typos and outdated references in CONTRIBUTING.md |
 
 #### 🔄 Open PRs (Under Review)
 
@@ -39,11 +45,12 @@ Active contributor across **12 major AI/ML repos** — bug fixes, features, and 
 | [**run-llama/llama_index**](https://github.com/run-llama/llama_index) | 48K ⭐ | `fix` | Prevent KeyError in DocumentSummaryIndex.delete_nodes() ([#21236](https://github.com/run-llama/llama_index/pull/21236)) |
 | [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) | 48K ⭐ | `fix` | Use validated messages variable in LLM handlers ([#5177](https://github.com/crewAIInc/crewAI/pull/5177)) |
 | [**567-labs/instructor**](https://github.com/567-labs/instructor) | 13K ⭐ | `feat` | Add Claude 4, OpenAI o-series, xAI Grok, DeepSeek to KnownModelName ([#2235](https://github.com/567-labs/instructor/pull/2235)) |
+| [**mem0ai/mem0**](https://github.com/mem0ai/mem0) | 50K ⭐ | `feat` | Add type hints and docstrings to VectorStoreBase and EmbeddingBase ([#4629](https://github.com/mem0ai/mem0/pull/4629)) |
 | [**pydantic/logfire**](https://github.com/pydantic/logfire) | 4.1K ⭐ | `fix` | Fix false import suggestions with AST-based detection ([#1788](https://github.com/pydantic/logfire/pull/1788)) |
 | [**kyegomez/swarms**](https://github.com/kyegomez/swarms) | 5.9K ⭐ | `feat` | Add validate() pre-run checks to GraphWorkflow + 10 tests ([#1493](https://github.com/kyegomez/swarms/pull/1493)) |
 | [**kyegomez/swarms**](https://github.com/kyegomez/swarms) | 5.9K ⭐ | `perf` | Guard any_to_str() with isinstance check in AgentRearrange ([#1492](https://github.com/kyegomez/swarms/pull/1492)) |
 
-> **Total: 22 PRs across 12 repos** — Contributing to frameworks with combined **350K+ GitHub stars**
+> **Total: 23 PRs across 12 repos** — Contributing to frameworks with combined **350K+ GitHub stars**
 
 ### What I Build
 
