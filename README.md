@@ -16,16 +16,34 @@
 | **[awesome-ai-agents](https://github.com/GopalGB/awesome-ai-agents)** | Curated list of 80+ AI agent frameworks, tools, and resources — frameworks, memory, orchestration, evaluation, papers |
 | **[claude-code-toolkit](https://github.com/GopalGB/claude-code-toolkit)** | Production-ready hooks, skills, and configs for Claude Code — credential protection, session management, auto-briefings |
 
-### Open Source Contributions
+### 🔧 Open Source Contributions
 
-Active contributor to the AI agent ecosystem:
+Active contributor across **12 major AI/ML repos** — bug fixes, features, and performance improvements (not just docs).
 
-| Repo | Stars | Contribution |
-|------|-------|-------------|
-| [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy) | 33K ⭐ | Docstrings for Predict & ReAct APIs, bug fixes ([#9482](https://github.com/stanfordnlp/dspy/pull/9482), [#9483](https://github.com/stanfordnlp/dspy/pull/9483), [#9484](https://github.com/stanfordnlp/dspy/pull/9484)) |
-| [**mem0ai/mem0**](https://github.com/mem0ai/mem0) | 50K ⭐ | Added `reasoning_effort` parameter + 7 tests ([#4461](https://github.com/mem0ai/mem0/pull/4461)) |
-| [**kyegomez/swarms**](https://github.com/kyegomez/swarms) | 5.9K ⭐ | Perf optimization + GraphWorkflow validate() with 10 tests ([#1492](https://github.com/kyegomez/swarms/pull/1492), [#1493](https://github.com/kyegomez/swarms/pull/1493)) |
-| [**pydantic/logfire**](https://github.com/pydantic/logfire) | 4.1K ⭐ | Fixed false import suggestions with AST-based detection ([#1788](https://github.com/pydantic/logfire/pull/1788)) |
+#### ✅ Merged / Approved
+
+| Repo | Stars | Type | PR |
+|------|-------|------|-----|
+| [**livekit/agents**](https://github.com/livekit/agents) | 9.9K ⭐ | `fix` | Make function call history preservation configurable in AgentTask ([#5288](https://github.com/livekit/agents/pull/5288)) |
+| [**mem0ai/mem0**](https://github.com/mem0ai/mem0) | 50K ⭐ | `feat` | Added `reasoning_effort` parameter support for reasoning models + 7 tests ([#4461](https://github.com/mem0ai/mem0/pull/4461)) |
+| [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy) | 33K ⭐ | `docs` | Docstrings for Predict, ReAct & BaseLM APIs ([#9482](https://github.com/stanfordnlp/dspy/pull/9482)) |
+| [**huggingface/huggingface_hub**](https://github.com/huggingface/huggingface_hub) | 3.5K ⭐ | `docs` | Fix typos and outdated references in CONTRIBUTING.md |
+
+#### 🔄 Open PRs (Under Review)
+
+| Repo | Stars | Type | PR |
+|------|-------|------|-----|
+| [**microsoft/autogen**](https://github.com/microsoft/autogen) | 56K ⭐ | `fix` | Add explicit `encoding='utf-8'` to text file operations ([#7499](https://github.com/microsoft/autogen/pull/7499)) |
+| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | 42K ⭐ | `fix` | Account for cache read/creation tokens in cost calculator ([#24860](https://github.com/BerriAI/litellm/pull/24860)) |
+| [**run-llama/llama_index**](https://github.com/run-llama/llama_index) | 48K ⭐ | `fix` | Catch ValueError/TypeError in Refine structured output handlers ([#21237](https://github.com/run-llama/llama_index/pull/21237)) |
+| [**run-llama/llama_index**](https://github.com/run-llama/llama_index) | 48K ⭐ | `fix` | Prevent KeyError in DocumentSummaryIndex.delete_nodes() ([#21236](https://github.com/run-llama/llama_index/pull/21236)) |
+| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) | 48K ⭐ | `fix` | Use validated messages variable in LLM handlers ([#5177](https://github.com/crewAIInc/crewAI/pull/5177)) |
+| [**567-labs/instructor**](https://github.com/567-labs/instructor) | 13K ⭐ | `feat` | Add Claude 4, OpenAI o-series, xAI Grok, DeepSeek to KnownModelName ([#2235](https://github.com/567-labs/instructor/pull/2235)) |
+| [**pydantic/logfire**](https://github.com/pydantic/logfire) | 4.1K ⭐ | `fix` | Fix false import suggestions with AST-based detection ([#1788](https://github.com/pydantic/logfire/pull/1788)) |
+| [**kyegomez/swarms**](https://github.com/kyegomez/swarms) | 5.9K ⭐ | `feat` | Add validate() pre-run checks to GraphWorkflow + 10 tests ([#1493](https://github.com/kyegomez/swarms/pull/1493)) |
+| [**kyegomez/swarms**](https://github.com/kyegomez/swarms) | 5.9K ⭐ | `perf` | Guard any_to_str() with isinstance check in AgentRearrange ([#1492](https://github.com/kyegomez/swarms/pull/1492)) |
+
+> **Total: 22 PRs across 12 repos** — Contributing to frameworks with combined **350K+ GitHub stars**
 
 ### What I Build
 
