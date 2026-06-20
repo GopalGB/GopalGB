@@ -2,6 +2,7 @@
 <h3 align="center">AI Engineer · RAG · Multi-Agent Systems · MCP · Production LLM Apps</h3>
 
 <p align="center">
+  <a href="https://gopalbagaswar.com"><img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/gopal-bagaswar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/BagaswarGopal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:gopalbagaswar7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
