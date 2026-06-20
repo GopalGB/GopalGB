@@ -29,25 +29,18 @@ Production AI systems that think, decide, and execute — agentic RAG, multi-age
 
 ### 🔧 Open-Source Contributions
 
-I contribute **code-logic fixes** to the AI/ML frameworks I build on — bugs, edge-case handling, and small features, with tests.
-
-**✅ Merged** (12 PRs)
+**6 merged code PRs** — bug fixes and small features, shipped with tests — to the AI/ML frameworks I build on. No doc/typo PRs in this list; every one is verifiable:
 
 | Repo | Type | What |
 |------|------|------|
 | [gradio-app/gradio](https://github.com/gradio-app/gradio/pull/13396) | `fix` | Convert non-WAV audio outputs to int16 to avoid playback corruption |
-| [gradio-app/gradio](https://github.com/gradio-app/gradio/pull/13344) | `fix` | KeyError in `@gr.render` when an inner `gr.Events` re-renders |
+| [gradio-app/gradio](https://github.com/gradio-app/gradio/pull/13344) | `fix` | KeyError in `@gr.render` when an inner `gr.Examples` pops a value |
 | [livekit/agents](https://github.com/livekit/agents/pull/5288) | `fix` | Make function-call history preservation configurable in `AgentTask` |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0/pull/4461) | `feat` | `reasoning_effort` parameter support for reasoning models (+7 tests) |
 | [optuna/optuna-integration](https://github.com/optuna/optuna-integration/pull/278) | `fix` | Late-binding closure bug in BoTorch `_get_constraint_funcs` |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm/pull/5560) | `fix` | Strip Markdown before sending text to TTS |
-| huggingface/huggingface_hub · openai/openai-agents-python · stanfordnlp/dspy · fastapi/sqlmodel · anthropics/anthropic-sdk-python | `docs/chore` | Docs + example fixes |
 
-**🔄 Open — under review** (20 PRs across major repos)
-
-`microsoft/autogen` ×2 · `danny-avila/LibreChat` · `chroma-core/chroma` · `run-llama/llama_index` · `modelcontextprotocol/python-sdk` · `browser-use/browser-use` · `Arize-ai/phoenix` · `microsoft/markitdown` · `vibrantlabsai/ragas` · `kyegomez/swarms` ×2 · `mem0ai/mem0`
-
-> Code contributions to frameworks including gradio, livekit, mem0, optuna, autogen, chroma, llama_index, and the MCP Python SDK.
+More (including open PRs and docs) → [github.com/GopalGB](https://github.com/GopalGB?tab=overview)
 
 ---
 
