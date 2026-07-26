@@ -1,68 +1,52 @@
 <h1 align="center">Gopal Bagaswar</h1>
-<h3 align="center">AI Engineer · RAG · Multi-Agent Systems · MCP · Production LLM Apps</h3>
+<h3 align="center">Applied AI Engineer | RAG | Agent Systems | Production LLM Applications</h3>
 
 <p align="center">
-  <a href="https://gopalbagaswar.com"><img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gopal-bagaswar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/BagaswarGopal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:gopalbagaswar7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gopalbagaswar.com"><img src="https://img.shields.io/badge/Portfolio-0B6E4F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/gopal-bagaswar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/BagaswarGopal"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:gopalbagaswar7@gmail.com"><img src="https://img.shields.io/badge/Email-B3261E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>Senior Data Analyst → AI Engineer. I ship production AI systems and contribute code to the frameworks they run on.</i></p>
+I am moving from senior data analytics into applied AI engineering. I build testable systems around retrieval, agent workflows, analytics, and developer automation, with an emphasis on evidence, evaluation, and guardrails.
 
-<!-- ascii-portrait: generated 2026-07-10 from github avatar -->
-<div align="center">
+## Selected Projects
 
-]
+| Project | Engineering proof | Stack |
+|---|---|---|
+| [citipoints](https://github.com/GopalGB/citipoints) | Retail loyalty analytics with ML models and an auditable natural-language-to-SQL layer over synthetic data | TypeScript, Next.js, FastAPI, XGBoost |
+| [rag-analytics-assistant](https://github.com/GopalGB/rag-analytics-assistant) | Guardrailed analytics assistant with hybrid retrieval and tool-calling over user-controlled data | Python, FastAPI, DuckDB, RAG |
+| [codex-upgrade](https://github.com/GopalGB/codex-upgrade) | Portable Codex CLI skills, prompts, and operating guardrails | Python, Codex CLI |
+| [claude-code-toolkit](https://github.com/GopalGB/claude-code-toolkit) | Hooks and reusable controls for session management and credential protection | JavaScript, Claude Code |
+| [officehub](https://github.com/GopalGB/officehub) | Self-hosted project workspace with timelines and management rollups | TypeScript, Next.js, Postgres, Docker |
+| [ai-engineering-receipts](https://github.com/GopalGB/ai-engineering-receipts) | Public interview playbook and evidence index for applied-AI work | Documentation, evidence maps |
 
-</div>
-<!-- /ascii-portrait -->
+## Verified Open-Source Contributions
 
----
+Six merged code pull requests, verified against the upstream repositories:
 
-### 🚀 What I Build
+| Repository | Contribution |
+|---|---|
+| [gradio-app/gradio#13396](https://github.com/gradio-app/gradio/pull/13396) | Convert non-WAV audio output to int16 to prevent playback corruption |
+| [gradio-app/gradio#13344](https://github.com/gradio-app/gradio/pull/13344) | Fix a `KeyError` involving nested `gr.Examples` inside `gr.render` |
+| [livekit/agents#5288](https://github.com/livekit/agents/pull/5288) | Make function-call history preservation configurable in `AgentTask` |
+| [mem0ai/mem0#4461](https://github.com/mem0ai/mem0/pull/4461) | Add `reasoning_effort` support for reasoning models |
+| [optuna/optuna-integration#278](https://github.com/optuna/optuna-integration/pull/278) | Fix late binding in BoTorch constraint closures |
+| [Mintplex-Labs/anything-llm#5560](https://github.com/Mintplex-Labs/anything-llm/pull/5560) | Strip Markdown before text-to-speech processing |
 
-Production AI systems that think, decide, and execute — agentic RAG, multi-agent orchestration, and real-time voice AI, with the eval + observability stack to keep them honest.
+## Engineering Focus
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| [**career-os**](https://github.com/GopalGB/career-os) | A job-search command center — self-paced AI-engineer curriculum, live ATS job feed (1000+ roles), JD-aware résumé tailoring | Next.js 16, TypeScript, Python agents |
-| [**getcallbounce**](https://github.com/GopalGB/getcallbounce) | Production voice AI for missed-call recovery — streaming STT + Claude + TTS under a sub-second latency budget | Python, Twilio, Deepgram, Claude |
-| [**rag-analytics-assistant**](https://github.com/GopalGB/rag-analytics-assistant) | LLM-first, guardrailed RAG analytics assistant over your own data — hybrid retrieval + anti-hallucination gates | Python, FastAPI, vector DBs |
-| [**codex-upgrade**](https://github.com/GopalGB/codex-upgrade) | Portable zero-MCP power kit for the OpenAI Codex CLI — expert skills, prompts, and guardrails | Python |
-| [**awesome-ai-agents**](https://github.com/GopalGB/awesome-ai-agents) | Curated list of 80+ AI-agent frameworks, memory, orchestration & eval tools | — |
-| [**claude-code-toolkit**](https://github.com/GopalGB/claude-code-toolkit) | Production hooks, skills & configs for Claude Code — credential protection, session mgmt | — |
-
----
-
-### 🔧 Open-Source Contributions
-
-**6 merged code PRs** — bug fixes and small features, shipped with tests — to the AI/ML frameworks I build on. No doc/typo PRs in this list; every one is verifiable:
-
-| Repo | Type | What |
-|------|------|------|
-| [gradio-app/gradio](https://github.com/gradio-app/gradio/pull/13396) | `fix` | Convert non-WAV audio outputs to int16 to avoid playback corruption |
-| [gradio-app/gradio](https://github.com/gradio-app/gradio/pull/13344) | `fix` | KeyError in `@gr.render` when an inner `gr.Examples` pops a value |
-| [livekit/agents](https://github.com/livekit/agents/pull/5288) | `fix` | Make function-call history preservation configurable in `AgentTask` |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0/pull/4461) | `feat` | `reasoning_effort` parameter support for reasoning models (+7 tests) |
-| [optuna/optuna-integration](https://github.com/optuna/optuna-integration/pull/278) | `fix` | Late-binding closure bug in BoTorch `_get_constraint_funcs` |
-| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm/pull/5560) | `fix` | Strip Markdown before sending text to TTS |
-
-More (including open PRs and docs) → [github.com/GopalGB](https://github.com/GopalGB?tab=overview)
-
----
-
-### 🛠 Tech Stack
-
-```
-AI/ML    : Python · Claude · GPT · RAG · vector DBs · multi-agent systems · MCP · DSPy · evals
-Backend  : FastAPI · Node.js · Java/Spring Boot
-Frontend : React · Next.js · TypeScript · SwiftUI
-Data     : PostgreSQL · MySQL · Pandas · Polars
-DevOps   : Docker · AWS · GCP · Cloudflare · Linux
+```text
+Applied AI : RAG, agent workflows, tool calling, evaluation, guardrails
+Backend    : Python, FastAPI, Node.js, PostgreSQL
+Frontend   : TypeScript, React, Next.js
+Data       : Pandas, SQL, forecasting, segmentation, experimentation
+Delivery   : Docker, CI, reproducible validation, evidence-first documentation
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GopalGB&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GopalGB&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## Current Direction
+
+- Building public, reviewable AI-engineering proof rather than tutorial clones.
+- Contributing tested fixes to the open-source tools used in real projects.
+- Looking for applied AI, AI engineering, and AI analytics roles open to remote work from India.
+
