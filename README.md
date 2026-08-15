@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vm6sy8"><img src="https://i.redd.it/oz14mbhq7wih1.png" alt="letTheWorldBurn" width="480" /></a><br />
-  <sub>letTheWorldBurn — r/ProgrammerHumor</sub>
+  <a href="https://redd.it/1vnpita"><img src="https://i.redd.it/waxxwn8zs7jh1.png" alt="factOfTheDay" width="480" /></a><br />
+  <sub><b>factOfTheDay</b> — r/ProgrammerHumor · 20,043 upvotes</sub>
 </p>
 <!-- MEME:END -->
 

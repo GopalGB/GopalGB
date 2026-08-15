@@ -4,6 +4,13 @@ name: Daily meme
 # This rewrites one marked block each morning and commits only when the image
 # actually changed, so the history stays readable instead of one commit a day
 # saying nothing.
+#
+# v2 (2026-08-15): stop posting duds. Pulling ONE random post from
+# r/ProgrammerHumor is a coin flip - a measured sample came back
+# [541, 38, 19, 115, 539] upvotes, so most days landed on something nobody
+# laughed at. Now it pulls a batch across several subs, drops anything under
+# MIN_UPS, and takes the highest-scoring post it has not used recently. The
+# same batch endpoint returns posts up to ~20k upvotes, so the ceiling is real.
 on:
   schedule:
     - cron: "17 2 * * *" # 07:47 IST, before G starts
@@ -22,50 +29,71 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch a safe-for-work programming meme
+      - name: Pick the best safe-for-work programming meme
         id: meme
         run: |
           python3 - <<'PY'
           import json, os, re, sys, urllib.request
 
-          # ProgrammerHumor specifically, not r/memes: the feed is on-topic, and
-          # this README is read by recruiters. nsfw/spoiler are still checked
-          # because an upstream tag is cheaper to trust than an upstream promise.
-          API = "https://meme-api.com/gimme/ProgrammerHumor"
+          # Programming-specific subs only: this README is read by recruiters, so
+          # a general meme feed is the wrong pool regardless of how funny it is.
+          SUBS = ["ProgrammerHumor", "programminghorror", "linuxmemes"]
+          BATCH = 50            # the endpoint caps out around 44-50 returned
+          MIN_UPS = 2000        # below this it is not worth a slot on the page
+          RECENT_FILE = ".github/.meme-history.json"
+          KEEP_RECENT = 30      # do not repeat a post within ~a month
           IMG = re.compile(r"^https://[\w.-]+\.(redd\.it|redditmedia\.com)/[\w./-]+\.(png|jpg|jpeg|gif)$")
 
-          def pick():
-              for _ in range(6):
-                  try:
-                      req = urllib.request.Request(API, headers={"User-Agent": "GopalGB-profile"})
-                      with urllib.request.urlopen(req, timeout=20) as r:
-                          d = json.load(r)
-                  except Exception as e:
-                      print(f"fetch failed: {e}", file=sys.stderr)
-                      continue
-                  url = str(d.get("url") or "")
-                  if d.get("nsfw") or d.get("spoiler"):
-                      print("skipped: flagged post")
-                      continue
-                  if not IMG.match(url):
-                      print(f"skipped: unexpected url {url[:60]}")
-                      continue
-                  return url, str(d.get("title") or "").strip(), str(d.get("postLink") or "")
-              return None
+          def fetch(sub):
+              url = f"https://meme-api.com/gimme/{sub}/{BATCH}"
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "GopalGB-profile"})
+                  with urllib.request.urlopen(req, timeout=25) as r:
+                      return (json.load(r).get("memes") or [])
+              except Exception as e:
+                  print(f"  {sub}: fetch failed ({e})", file=sys.stderr)
+                  return []
 
-          got = pick()
-          if not got:
-              # Never fail the job and never blank the section: a missing meme is
-              # not worth a red X on the profile or an empty block in the README.
-              print("no usable meme this run; leaving README unchanged")
+          try:
+              recent = json.load(open(RECENT_FILE))
+          except Exception:
+              recent = []
+          seen = set(recent)
+
+          pool = []
+          for sub in SUBS:
+              got = fetch(sub)
+              print(f"  {sub}: {len(got)} candidates")
+              pool.extend(got)
+
+          def ok(m):
+              url = str(m.get("url") or "")
+              return (
+                  not m.get("nsfw")
+                  and not m.get("spoiler")
+                  and IMG.match(url)
+                  and (m.get("ups") or 0) >= MIN_UPS
+                  and str(m.get("postLink") or url) not in seen
+              )
+
+          good = sorted((m for m in pool if ok(m)), key=lambda m: -(m.get("ups") or 0))
+          print(f"  {len(good)} cleared the {MIN_UPS}-upvote bar out of {len(pool)}")
+          if not good:
+              # Keeping yesterday's good meme beats publishing today's bad one.
+              print("nothing cleared the bar; leaving README unchanged")
               sys.exit(0)
 
-          url, title, link = got
-          title = re.sub(r"[<>\[\]]", "", title)[:120] or "Programmer humor"
+          best = good[0]
+          url = best["url"]
+          link = str(best.get("postLink") or url)
+          sub = best.get("subreddit") or "ProgrammerHumor"
+          ups = best.get("ups") or 0
+          title = re.sub(r"[<>\[\]]", "", str(best.get("title") or "").strip())[:120] or "Programmer humor"
+
           block = (
               f'<p align="center">\n'
               f'  <a href="{link}"><img src="{url}" alt="{title}" width="480" /></a><br />\n'
-              f'  <sub>{title} — r/ProgrammerHumor</sub>\n'
+              f'  <sub><b>{title}</b> — r/{sub} · {ups:,} upvotes</sub>\n'
               f'</p>'
           )
 
@@ -80,9 +108,13 @@ jobs:
               print("unchanged")
               sys.exit(0)
           open("README.md", "w", encoding="utf-8").write(new)
+
+          os.makedirs(os.path.dirname(RECENT_FILE), exist_ok=True)
+          json.dump(([link] + recent)[:KEEP_RECENT], open(RECENT_FILE, "w"), indent=1)
+
           with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
               fh.write("changed=true\n")
-          print(f"updated -> {url}")
+          print(f"picked {ups:,} upvotes: {title}")
           PY
 
       - name: Commit if it changed
@@ -90,6 +122,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md .github/.meme-history.json
           git commit -m "chore(readme): daily meme refresh"
           git push
