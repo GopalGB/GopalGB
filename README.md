@@ -50,3 +50,34 @@ Delivery   : Docker, CI, reproducible validation, evidence-first documentation
 - Contributing tested fixes to the open-source tools used in real projects.
 - Looking for applied AI, AI engineering, and AI analytics roles open to remote work from India.
 
+
+## Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GopalGB&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GopalGB&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GopalGB&theme=github" alt="Profile stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GopalGB&theme=github" alt="Most-committed languages" />
+</p>
+
+## Daily Build Break
+
+Refreshed every morning by a scheduled workflow in this repository, filtered to
+safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
+
+<!-- MEME:START -->
+<p align="center">
+  <a href="https://redd.it/1vmlhid"><img src="https://i.redd.it/7c6138vzfzih1.png" alt="newJobTitleJustDropped" width="480" /></a><br />
+  <sub>newJobTitleJustDropped — r/ProgrammerHumor</sub>
+</p>
+<!-- MEME:END -->
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=github&hideBorder" alt="Programming joke of the day" />
+</p>

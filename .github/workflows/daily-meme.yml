@@ -1,0 +1,95 @@
+name: Daily meme
+
+# A profile README is a static file, so "daily" has to come from somewhere.
+# This rewrites one marked block each morning and commits only when the image
+# actually changed, so the history stays readable instead of one commit a day
+# saying nothing.
+on:
+  schedule:
+    - cron: "17 2 * * *" # 07:47 IST, before G starts
+  workflow_dispatch: # lets you pull a new one on demand
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-meme
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch a safe-for-work programming meme
+        id: meme
+        run: |
+          python3 - <<'PY'
+          import json, os, re, sys, urllib.request
+
+          # ProgrammerHumor specifically, not r/memes: the feed is on-topic, and
+          # this README is read by recruiters. nsfw/spoiler are still checked
+          # because an upstream tag is cheaper to trust than an upstream promise.
+          API = "https://meme-api.com/gimme/ProgrammerHumor"
+          IMG = re.compile(r"^https://[\w.-]+\.(redd\.it|redditmedia\.com)/[\w./-]+\.(png|jpg|jpeg|gif)$")
+
+          def pick():
+              for _ in range(6):
+                  try:
+                      req = urllib.request.Request(API, headers={"User-Agent": "GopalGB-profile"})
+                      with urllib.request.urlopen(req, timeout=20) as r:
+                          d = json.load(r)
+                  except Exception as e:
+                      print(f"fetch failed: {e}", file=sys.stderr)
+                      continue
+                  url = str(d.get("url") or "")
+                  if d.get("nsfw") or d.get("spoiler"):
+                      print("skipped: flagged post")
+                      continue
+                  if not IMG.match(url):
+                      print(f"skipped: unexpected url {url[:60]}")
+                      continue
+                  return url, str(d.get("title") or "").strip(), str(d.get("postLink") or "")
+              return None
+
+          got = pick()
+          if not got:
+              # Never fail the job and never blank the section: a missing meme is
+              # not worth a red X on the profile or an empty block in the README.
+              print("no usable meme this run; leaving README unchanged")
+              sys.exit(0)
+
+          url, title, link = got
+          title = re.sub(r"[<>\[\]]", "", title)[:120] or "Programmer humor"
+          block = (
+              f'<p align="center">\n'
+              f'  <a href="{link}"><img src="{url}" alt="{title}" width="480" /></a><br />\n'
+              f'  <sub>{title} — r/ProgrammerHumor</sub>\n'
+              f'</p>'
+          )
+
+          readme = open("README.md", encoding="utf-8").read()
+          new = re.sub(
+              r"<!-- MEME:START -->.*?<!-- MEME:END -->",
+              f"<!-- MEME:START -->\n{block}\n<!-- MEME:END -->",
+              readme,
+              flags=re.S,
+          )
+          if new == readme:
+              print("unchanged")
+              sys.exit(0)
+          open("README.md", "w", encoding="utf-8").write(new)
+          with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+              fh.write("changed=true\n")
+          print(f"updated -> {url}")
+          PY
+
+      - name: Commit if it changed
+        if: steps.meme.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): daily meme refresh"
+          git push
