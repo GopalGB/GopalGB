@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vnpita"><img src="https://i.redd.it/waxxwn8zs7jh1.png" alt="factOfTheDay" width="480" /></a><br />
-  <sub><b>factOfTheDay</b> — r/ProgrammerHumor · 20,043 upvotes</sub>
+  <a href="https://redd.it/1vl6ab1"><img src="https://i.redd.it/b38cajxh1oih1.png" alt="improvingPasswordSecurityWithCzech" width="480" /></a><br />
+  <sub><b>improvingPasswordSecurityWithCzech</b> — r/ProgrammerHumor · 11,698 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
