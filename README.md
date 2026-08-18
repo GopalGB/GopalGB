@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vn49o5"><img src="https://i.redd.it/bmtffnndl3jh1.png" alt="Linus is God sent OC" width="480" /></a><br />
-  <sub><b>Linus is God sent OC</b> — r/linuxmemes · 9,024 upvotes</sub>
+  <a href="https://redd.it/1vprdcj"><img src="https://i.redd.it/0oszop4u3pjh1.png" alt="tacticalDownTime" width="480" /></a><br />
+  <sub><b>tacticalDownTime</b> — r/ProgrammerHumor · 9,739 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
