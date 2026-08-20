@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vrtra8"><img src="https://i.redd.it/yggsq2cwq5kh1.png" alt="youShouldntHaveIt" width="480" /></a><br />
-  <sub><b>youShouldntHaveIt</b> — r/ProgrammerHumor · 29,788 upvotes</sub>
+  <a href="https://redd.it/1vpbst1"><img src="https://i.redd.it/jw8qtz9qbljh1.png" alt="driveFasterProjectManager" width="480" /></a><br />
+  <sub><b>driveFasterProjectManager</b> — r/ProgrammerHumor · 8,277 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
