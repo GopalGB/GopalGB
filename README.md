@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vpbst1"><img src="https://i.redd.it/jw8qtz9qbljh1.png" alt="driveFasterProjectManager" width="480" /></a><br />
-  <sub><b>driveFasterProjectManager</b> — r/ProgrammerHumor · 8,277 upvotes</sub>
+  <a href="https://redd.it/1vpxlzy"><img src="https://i.redd.it/v4rnocg6sqjh1.png" alt="aiCodesHumanOwns" width="480" /></a><br />
+  <sub><b>aiCodesHumanOwns</b> — r/ProgrammerHumor · 5,741 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
