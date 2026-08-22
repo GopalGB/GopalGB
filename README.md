@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vpxlzy"><img src="https://i.redd.it/v4rnocg6sqjh1.png" alt="aiCodesHumanOwns" width="480" /></a><br />
-  <sub><b>aiCodesHumanOwns</b> — r/ProgrammerHumor · 5,741 upvotes</sub>
+  <a href="https://redd.it/1vrcqno"><img src="https://i.redd.it/w46q0i8bq1kh1.gif" alt="ruleOfProgrammingIfItIsWorkingDoNotTouchIt" width="480" /></a><br />
+  <sub><b>ruleOfProgrammingIfItIsWorkingDoNotTouchIt</b> — r/ProgrammerHumor · 5,306 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
