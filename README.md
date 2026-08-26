@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vx1zux"><img src="https://i.redd.it/1jz3nsd2lblh1.png" alt="wieldTheSword" width="480" /></a><br />
-  <sub><b>wieldTheSword</b> — r/ProgrammerHumor · 8,671 upvotes</sub>
+  <a href="https://redd.it/1vxuyp5"><img src="https://i.redd.it/p4u6rul5qhlh1.png" alt="youNeverStopLearningInTech" width="480" /></a><br />
+  <sub><b>youNeverStopLearningInTech</b> — r/ProgrammerHumor · 8,021 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
