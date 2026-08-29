@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vzvpqw"><img src="https://i.redd.it/z8qxg3hnhxlh1.png" alt="noWayISpentThatMuchStaringAtScreen" width="480" /></a><br />
-  <sub><b>noWayISpentThatMuchStaringAtScreen</b> — r/ProgrammerHumor · 16,570 upvotes</sub>
+  <a href="https://redd.it/1vxzoeu"><img src="https://i.redd.it/ulgovlsluilh1.png" alt="everyRepoWithSuspiciouslyGreatCodeQuality" width="480" /></a><br />
+  <sub><b>everyRepoWithSuspiciouslyGreatCodeQuality</b> — r/ProgrammerHumor · 9,671 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
