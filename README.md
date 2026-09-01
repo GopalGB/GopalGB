@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1vy9nab"><img src="https://i.redd.it/twxmmlohnklh1.png" alt="orIsIt" width="480" /></a><br />
-  <sub><b>orIsIt</b> — r/ProgrammerHumor · 5,065 upvotes</sub>
+  <a href="https://redd.it/1w2d5fw"><img src="https://i.redd.it/ybzdy9mhghmh1.png" alt="ancientTools" width="480" /></a><br />
+  <sub><b>ancientTools</b> — r/ProgrammerHumor · 5,613 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
