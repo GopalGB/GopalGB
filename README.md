@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1w2d5fw"><img src="https://i.redd.it/ybzdy9mhghmh1.png" alt="ancientTools" width="480" /></a><br />
-  <sub><b>ancientTools</b> — r/ProgrammerHumor · 5,613 upvotes</sub>
+  <a href="https://redd.it/1w478bi"><img src="https://i.redd.it/101845ecrvmh1.png" alt="trafficLightForClaudeCode" width="480" /></a><br />
+  <sub><b>trafficLightForClaudeCode</b> — r/ProgrammerHumor · 13,787 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
