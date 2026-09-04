@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1w5l8b3"><img src="https://i.redd.it/wkaxznkmw5nh1.png" alt="newCompressionTechnique" width="480" /></a><br />
-  <sub><b>newCompressionTechnique</b> — r/ProgrammerHumor · 20,683 upvotes</sub>
+  <a href="https://redd.it/1w5bs6g"><img src="https://i.redd.it/0prpmqty84nh1.png" alt="perishableSkill" width="480" /></a><br />
+  <sub><b>perishableSkill</b> — r/ProgrammerHumor · 8,592 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
