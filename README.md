@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1w5bs6g"><img src="https://i.redd.it/0prpmqty84nh1.png" alt="perishableSkill" width="480" /></a><br />
-  <sub><b>perishableSkill</b> — r/ProgrammerHumor · 8,592 upvotes</sub>
+  <a href="https://redd.it/1w6312a"><img src="https://i.redd.it/2wsloc8k3anh1.png" alt="whatsYourBetterThanSex" width="480" /></a><br />
+  <sub><b>whatsYourBetterThanSex</b> — r/ProgrammerHumor · 6,658 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
