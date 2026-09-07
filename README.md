@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1w613ln"><img src="https://i.redd.it/g2eonkkgj9nh1.png" alt="realetable" width="480" /></a><br />
-  <sub><b>realetable</b> — r/ProgrammerHumor · 4,530 upvotes</sub>
+  <a href="https://redd.it/1w6wd8p"><img src="https://i.redd.it/hcashhb26gnh1.png" alt="everyDamnTime" width="480" /></a><br />
+  <sub><b>everyDamnTime</b> — r/ProgrammerHumor · 4,092 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
