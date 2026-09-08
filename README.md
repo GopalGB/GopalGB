@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1w6wd8p"><img src="https://i.redd.it/hcashhb26gnh1.png" alt="everyDamnTime" width="480" /></a><br />
-  <sub><b>everyDamnTime</b> — r/ProgrammerHumor · 4,092 upvotes</sub>
+  <a href="https://redd.it/1w5cx6n"><img src="https://i.redd.it/lw1atkjog4nh1.png" alt="Peace achieved" width="480" /></a><br />
+  <sub><b>Peace achieved</b> — r/linuxmemes · 3,991 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
