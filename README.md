@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1w5cx6n"><img src="https://i.redd.it/lw1atkjog4nh1.png" alt="Peace achieved" width="480" /></a><br />
-  <sub><b>Peace achieved</b> — r/linuxmemes · 3,991 upvotes</sub>
+  <a href="https://redd.it/1wahw3s"><img src="https://i.redd.it/pr7ffmzs49oh1.png" alt="writesMoreBugsBottom" width="480" /></a><br />
+  <sub><b>writesMoreBugsBottom</b> — r/ProgrammerHumor · 3,072 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
