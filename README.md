@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wfg7lf"><img src="https://i.redd.it/s47pnwfn3cph1.png" alt="gimmeGimmeGimmeAManAfterMidniiiiiiiiigght" width="480" /></a><br />
-  <sub><b>gimmeGimmeGimmeAManAfterMidniiiiiiiiigght</b> — r/ProgrammerHumor · 5,723 upvotes</sub>
+  <a href="https://redd.it/1wb7pgl"><img src="https://i.redd.it/g5lm7pwqeeoh1.png" alt="catsImproveEverything" width="480" /></a><br />
+  <sub><b>catsImproveEverything</b> — r/ProgrammerHumor · 2,626 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
