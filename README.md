@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wja8f4"><img src="https://i.redd.it/ziirfsbk36qh1.png" alt="humanInTheLoopWaitingForTheNextButtonPress" width="480" /></a><br />
-  <sub><b>humanInTheLoopWaitingForTheNextButtonPress</b> — r/ProgrammerHumor · 4,569 upvotes</sub>
+  <a href="https://redd.it/1wjzlfd"><img src="https://i.redd.it/zstuo2gdwbqh1.png" alt="theCircleOfPRReviews" width="480" /></a><br />
+  <sub><b>theCircleOfPRReviews</b> — r/ProgrammerHumor · 4,996 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
