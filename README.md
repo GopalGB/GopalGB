@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wjzlfd"><img src="https://i.redd.it/zstuo2gdwbqh1.png" alt="theCircleOfPRReviews" width="480" /></a><br />
-  <sub><b>theCircleOfPRReviews</b> — r/ProgrammerHumor · 4,996 upvotes</sub>
+  <a href="https://redd.it/1wkymgm"><img src="https://i.redd.it/hgvz0r4urjqh1.png" alt="itRunsOnMyLocalhost" width="480" /></a><br />
+  <sub><b>itRunsOnMyLocalhost</b> — r/ProgrammerHumor · 8,718 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
