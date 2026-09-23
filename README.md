@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wlr46f"><img src="https://i.redd.it/twokj40edqqh1.png" alt="successfulFailure" width="480" /></a><br />
-  <sub><b>successfulFailure</b> — r/ProgrammerHumor · 7,339 upvotes</sub>
+  <a href="https://redd.it/1wmf6lp"><img src="https://i.redd.it/zeprxr0lopqh1.png" alt="theyWereNotLazy" width="480" /></a><br />
+  <sub><b>theyWereNotLazy</b> — r/ProgrammerHumor · 5,971 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
