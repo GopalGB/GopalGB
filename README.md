@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wmf6lp"><img src="https://i.redd.it/zeprxr0lopqh1.png" alt="theyWereNotLazy" width="480" /></a><br />
-  <sub><b>theyWereNotLazy</b> — r/ProgrammerHumor · 5,971 upvotes</sub>
+  <a href="https://redd.it/1wo3rxb"><img src="https://i.redd.it/8s382nw1d9rh1.png" alt="howToSneakUnderCompiler" width="480" /></a><br />
+  <sub><b>howToSneakUnderCompiler</b> — r/ProgrammerHumor · 9,491 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
