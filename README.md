@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wo3rxb"><img src="https://i.redd.it/8s382nw1d9rh1.png" alt="howToSneakUnderCompiler" width="480" /></a><br />
-  <sub><b>howToSneakUnderCompiler</b> — r/ProgrammerHumor · 9,491 upvotes</sub>
+  <a href="https://redd.it/1wnzpbc"><img src="https://i.redd.it/h47uy26988rh1.png" alt="vibeCodingIsTheNewGambling" width="480" /></a><br />
+  <sub><b>vibeCodingIsTheNewGambling</b> — r/ProgrammerHumor · 7,217 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
