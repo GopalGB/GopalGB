@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wq8ag8"><img src="https://i.redd.it/8lmcoakngqrh1.png" alt="cyclicDependency" width="480" /></a><br />
-  <sub><b>cyclicDependency</b> — r/ProgrammerHumor · 5,823 upvotes</sub>
+  <a href="https://redd.it/1wtjznl"><img src="https://i.redd.it/l9s9j2i3jish1.png" alt="helpingIsCool" width="480" /></a><br />
+  <sub><b>helpingIsCool</b> — r/ProgrammerHumor · 8,716 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
