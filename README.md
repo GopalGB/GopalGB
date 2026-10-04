@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wpyi70"><img src="https://i.redd.it/5z9j9miakorh1.png" alt="frontEndBaddiesBeLike" width="480" /></a><br />
-  <sub><b>frontEndBaddiesBeLike</b> — r/ProgrammerHumor · 5,657 upvotes</sub>
+  <a href="https://redd.it/1wwgs8l"><img src="https://i.redd.it/kyg2bclvb7th1.png" alt="ultimateDeveloperFlex" width="480" /></a><br />
+  <sub><b>ultimateDeveloperFlex</b> — r/ProgrammerHumor · 4,528 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
