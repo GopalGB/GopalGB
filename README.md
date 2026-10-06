@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1wvm6ph"><img src="https://i.redd.it/5lns8petvzsh1.png" alt="oldSchoolRuneSpaghetti" width="480" /></a><br />
-  <sub><b>oldSchoolRuneSpaghetti</b> — r/ProgrammerHumor · 4,391 upvotes</sub>
+  <a href="https://redd.it/1wy5lsy"><img src="https://i.redd.it/vvxip00drmth1.png" alt="objectOrientedRat" width="480" /></a><br />
+  <sub><b>objectOrientedRat</b> — r/ProgrammerHumor · 9,732 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
