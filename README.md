@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x144tu"><img src="https://i.redd.it/ef4ri4drfbuh1.png" alt="Year of Linux Desktop for sure now" width="480" /></a><br />
-  <sub><b>Year of Linux Desktop for sure now</b> — r/linuxmemes · 4,653 upvotes</sub>
+  <a href="https://redd.it/1x1zy7f"><img src="https://i.redd.it/888pbh83yiuh1.png" alt="whatHappensToJohn" width="480" /></a><br />
+  <sub><b>whatHappensToJohn</b> — r/ProgrammerHumor · 5,147 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
