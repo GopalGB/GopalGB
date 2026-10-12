@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x1zy7f"><img src="https://i.redd.it/888pbh83yiuh1.png" alt="whatHappensToJohn" width="480" /></a><br />
-  <sub><b>whatHappensToJohn</b> — r/ProgrammerHumor · 5,147 upvotes</sub>
+  <a href="https://redd.it/1wxqahk"><img src="https://i.redd.it/vl8rhvx1kith1.png" alt="architectureDependentChars" width="480" /></a><br />
+  <sub><b>architectureDependentChars</b> — r/ProgrammerHumor · 2,949 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
