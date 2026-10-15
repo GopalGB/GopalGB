@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x3ejyf"><img src="https://i.redd.it/01rofoxjlvuh1.png" alt="Made using GIMP" width="480" /></a><br />
-  <sub><b>Made using GIMP</b> — r/linuxmemes · 3,785 upvotes</sub>
+  <a href="https://redd.it/1x352nx"><img src="https://i.redd.it/igi7flophtuh1.gif" alt="bugWithBenefits" width="480" /></a><br />
+  <sub><b>bugWithBenefits</b> — r/ProgrammerHumor · 3,771 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
