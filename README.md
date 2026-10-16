@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x352nx"><img src="https://i.redd.it/igi7flophtuh1.gif" alt="bugWithBenefits" width="480" /></a><br />
-  <sub><b>bugWithBenefits</b> — r/ProgrammerHumor · 3,771 upvotes</sub>
+  <a href="https://redd.it/1x5zsip"><img src="https://i.redd.it/intet74hchvh1.png" alt="whyEvenAsk" width="480" /></a><br />
+  <sub><b>whyEvenAsk</b> — r/ProgrammerHumor · 4,614 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
