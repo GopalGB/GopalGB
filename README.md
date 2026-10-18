@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x793q1"><img src="https://i.redd.it/2ibkexumzrvh1.png" alt="vibeCoding" width="480" /></a><br />
-  <sub><b>vibeCoding</b> — r/ProgrammerHumor · 20,512 upvotes</sub>
+  <a href="https://redd.it/1x7hua5"><img src="https://i.redd.it/5gml8e9bbuvh1.png" alt="fullCircle" width="480" /></a><br />
+  <sub><b>fullCircle</b> — r/ProgrammerHumor · 10,105 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
