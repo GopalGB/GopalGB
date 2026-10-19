@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x7hua5"><img src="https://i.redd.it/5gml8e9bbuvh1.png" alt="fullCircle" width="480" /></a><br />
-  <sub><b>fullCircle</b> — r/ProgrammerHumor · 10,105 upvotes</sub>
+  <a href="https://redd.it/1x7935x"><img src="https://i.redd.it/pxypil0dzrvh1.png" alt="toBeFairIndiaIsCalledIndoInJapanese" width="480" /></a><br />
+  <sub><b>toBeFairIndiaIsCalledIndoInJapanese</b> — r/ProgrammerHumor · 9,413 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
