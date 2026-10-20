@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x7935x"><img src="https://i.redd.it/pxypil0dzrvh1.png" alt="toBeFairIndiaIsCalledIndoInJapanese" width="480" /></a><br />
-  <sub><b>toBeFairIndiaIsCalledIndoInJapanese</b> — r/ProgrammerHumor · 9,413 upvotes</sub>
+  <a href="https://redd.it/1x9pkxj"><img src="https://i.redd.it/fh64txf6ddwh1.png" alt="javaClassesOnASingleLine" width="480" /></a><br />
+  <sub><b>javaClassesOnASingleLine</b> — r/ProgrammerHumor · 10,099 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
