@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1x9pkxj"><img src="https://i.redd.it/fh64txf6ddwh1.png" alt="javaClassesOnASingleLine" width="480" /></a><br />
-  <sub><b>javaClassesOnASingleLine</b> — r/ProgrammerHumor · 10,099 upvotes</sub>
+  <a href="https://redd.it/1xa3pdb"><img src="https://i.redd.it/jocudvqpogwh1.png" alt="ohTheBasics" width="480" /></a><br />
+  <sub><b>ohTheBasics</b> — r/ProgrammerHumor · 12,577 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
