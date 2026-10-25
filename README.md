@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xdkk64"><img src="https://i.redd.it/qiqb66bz59xh1.png" alt="privateKey" width="480" /></a><br />
-  <sub><b>privateKey</b> — r/ProgrammerHumor · 17,986 upvotes</sub>
+  <a href="https://redd.it/1xek1j4"><img src="https://i.redd.it/qvzynglodhxh1.png" alt="isntThisWeekAwesome" width="480" /></a><br />
+  <sub><b>isntThisWeekAwesome</b> — r/ProgrammerHumor · 8,945 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
