@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xf48m8"><img src="https://i.redd.it/zn950d8pkmxh1.png" alt="xkcdRelevanceAgain" width="480" /></a><br />
-  <sub><b>xkcdRelevanceAgain</b> — r/ProgrammerHumor · 11,810 upvotes</sub>
+  <a href="https://redd.it/1xdfv9s"><img src="https://i.redd.it/7yhehi8na8xh1.png" alt="justMakeItHappen" width="480" /></a><br />
+  <sub><b>justMakeItHappen</b> — r/ProgrammerHumor · 7,135 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
