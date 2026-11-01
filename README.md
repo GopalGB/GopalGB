@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xhl91p"><img src="https://i.redd.it/5o1uya56z6yh1.png" alt="whenTheImpossibleMeetsTheScalable" width="480" /></a><br />
-  <sub><b>whenTheImpossibleMeetsTheScalable</b> — r/ProgrammerHumor · 5,756 upvotes</sub>
+  <a href="https://redd.it/1xeb376"><img src="https://i.redd.it/brgvatttkfxh1.png" alt="itWasFunWhileItLasted" width="480" /></a><br />
+  <sub><b>itWasFunWhileItLasted</b> — r/ProgrammerHumor · 4,839 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
