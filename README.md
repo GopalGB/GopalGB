@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xkukx5"><img src="https://i.redd.it/vg3u0rlsnxyh1.png" alt="helloWorld" width="480" /></a><br />
-  <sub><b>helloWorld</b> — r/ProgrammerHumor · 11,401 upvotes</sub>
+  <a href="https://redd.it/1xlrukx"><img src="https://i.redd.it/w9957z8au5zh1.gif" alt="lowTokens" width="480" /></a><br />
+  <sub><b>lowTokens</b> — r/ProgrammerHumor · 6,504 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
