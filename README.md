@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xmw6nu"><img src="https://i.redd.it/pkmrs4913fzh1.png" alt="refactoringComplete" width="480" /></a><br />
-  <sub><b>refactoringComplete</b> — r/ProgrammerHumor · 3,993 upvotes</sub>
+  <a href="https://redd.it/1xngm6v"><img src="https://i.redd.it/f3ise1l4djzh1.png" alt="hittingMyTokenLimit" width="480" /></a><br />
+  <sub><b>hittingMyTokenLimit</b> — r/ProgrammerHumor · 5,319 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
