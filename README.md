@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xp9fts"><img src="https://i.redd.it/loj08qfkxyzh1.png" alt="spanishProgrammingLanguage" width="480" /></a><br />
-  <sub><b>spanishProgrammingLanguage</b> — r/ProgrammerHumor · 15,631 upvotes</sub>
+  <a href="https://redd.it/1xq28r6"><img src="https://i.redd.it/nkz0obxfr50i1.png" alt="thisFeelingNeverGoesAway" width="480" /></a><br />
+  <sub><b>thisFeelingNeverGoesAway</b> — r/ProgrammerHumor · 20,694 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
