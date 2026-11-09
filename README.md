@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xq28r6"><img src="https://i.redd.it/nkz0obxfr50i1.png" alt="thisFeelingNeverGoesAway" width="480" /></a><br />
-  <sub><b>thisFeelingNeverGoesAway</b> — r/ProgrammerHumor · 20,694 upvotes</sub>
+  <a href="https://redd.it/1xqv0nj"><img src="https://i.redd.it/8or59ob24d0i1.png" alt="reversingPiInPython" width="480" /></a><br />
+  <sub><b>reversingPiInPython</b> — r/ProgrammerHumor · 8,642 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
