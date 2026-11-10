@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xqv0nj"><img src="https://i.redd.it/8or59ob24d0i1.png" alt="reversingPiInPython" width="480" /></a><br />
-  <sub><b>reversingPiInPython</b> — r/ProgrammerHumor · 8,642 upvotes</sub>
+  <a href="https://redd.it/1xpl67i"><img src="https://i.redd.it/u12ee97oi10i1.png" alt="noAgentLeftBehind" width="480" /></a><br />
+  <sub><b>noAgentLeftBehind</b> — r/ProgrammerHumor · 7,362 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
