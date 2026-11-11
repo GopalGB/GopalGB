@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xpl67i"><img src="https://i.redd.it/u12ee97oi10i1.png" alt="noAgentLeftBehind" width="480" /></a><br />
-  <sub><b>noAgentLeftBehind</b> — r/ProgrammerHumor · 7,362 upvotes</sub>
+  <a href="https://redd.it/1xqmwj4"><img src="https://i.redd.it/y0rn3i9koa0i1.png" alt="everythingGoesIntoThePostHole" width="480" /></a><br />
+  <sub><b>everythingGoesIntoThePostHole</b> — r/ProgrammerHumor · 4,175 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
