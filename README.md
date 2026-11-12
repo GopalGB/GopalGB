@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xqmwj4"><img src="https://i.redd.it/y0rn3i9koa0i1.png" alt="everythingGoesIntoThePostHole" width="480" /></a><br />
-  <sub><b>everythingGoesIntoThePostHole</b> — r/ProgrammerHumor · 4,175 upvotes</sub>
+  <a href="https://redd.it/1xtdji5"><img src="https://i.redd.it/s1c5fp18dy0i1.png" alt="codeReviewIn2026" width="480" /></a><br />
+  <sub><b>codeReviewIn2026</b> — r/ProgrammerHumor · 9,668 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
