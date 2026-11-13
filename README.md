@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xtdji5"><img src="https://i.redd.it/s1c5fp18dy0i1.png" alt="codeReviewIn2026" width="480" /></a><br />
-  <sub><b>codeReviewIn2026</b> — r/ProgrammerHumor · 9,668 upvotes</sub>
+  <a href="https://redd.it/1xpbuc2"><img src="https://i.redd.it/pngp5zummzzh1.png" alt="Is Omarchy really that bad?" width="480" /></a><br />
+  <sub><b>Is Omarchy really that bad?</b> — r/linuxmemes · 3,826 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
