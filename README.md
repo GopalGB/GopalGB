@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xvren4"><img src="https://i.redd.it/325jrw3xsh1i1.png" alt="atleastWeCanTrustGoogle" width="480" /></a><br />
-  <sub><b>atleastWeCanTrustGoogle</b> — r/ProgrammerHumor · 6,752 upvotes</sub>
+  <a href="https://redd.it/1xv4nsz"><img src="https://i.redd.it/2ybf8ceszc1i1.png" alt="devsAtMicrosoftRightNow" width="480" /></a><br />
+  <sub><b>devsAtMicrosoftRightNow</b> — r/ProgrammerHumor · 3,825 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
