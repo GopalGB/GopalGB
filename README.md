@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xw4wit"><img src="https://i.redd.it/q693dqo1il1i1.png" alt="cacheRemembers" width="480" /></a><br />
-  <sub><b>cacheRemembers</b> — r/ProgrammerHumor · 3,825 upvotes</sub>
+  <a href="https://redd.it/1xtctzr"><img src="https://i.redd.it/409rnyoc5y0i1.png" alt="classAbstractSingletonProxyFactoryBean" width="480" /></a><br />
+  <sub><b>classAbstractSingletonProxyFactoryBean</b> — r/ProgrammerHumor · 2,906 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
