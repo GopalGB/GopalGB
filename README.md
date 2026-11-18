@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xtctzr"><img src="https://i.redd.it/409rnyoc5y0i1.png" alt="classAbstractSingletonProxyFactoryBean" width="480" /></a><br />
-  <sub><b>classAbstractSingletonProxyFactoryBean</b> — r/ProgrammerHumor · 2,906 upvotes</sub>
+  <a href="https://redd.it/1xxfw9i"><img src="https://i.redd.it/yhsn3dobhw1i1.png" alt="cppAndItsVectorBooleans" width="480" /></a><br />
+  <sub><b>cppAndItsVectorBooleans</b> — r/ProgrammerHumor · 2,532 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
