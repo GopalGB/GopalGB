@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xxfw9i"><img src="https://i.redd.it/yhsn3dobhw1i1.png" alt="cppAndItsVectorBooleans" width="480" /></a><br />
-  <sub><b>cppAndItsVectorBooleans</b> — r/ProgrammerHumor · 2,532 upvotes</sub>
+  <a href="https://redd.it/1xwzm5r"><img src="https://i.redd.it/0p5st0i7ys1i1.png" alt="Damn, this hurts" width="480" /></a><br />
+  <sub><b>Damn, this hurts</b> — r/linuxmemes · 2,743 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
