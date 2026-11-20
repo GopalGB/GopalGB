@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xwzm5r"><img src="https://i.redd.it/0p5st0i7ys1i1.png" alt="Damn, this hurts" width="480" /></a><br />
-  <sub><b>Damn, this hurts</b> — r/linuxmemes · 2,743 upvotes</sub>
+  <a href="https://redd.it/1xyhawg"><img src="https://i.redd.it/rbbr90ekj52i1.png" alt="what does directory even mean outside of linux" width="480" /></a><br />
+  <sub><b>what does directory even mean outside of linux</b> — r/linuxmemes · 3,040 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
