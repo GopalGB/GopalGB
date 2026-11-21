@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1xyhawg"><img src="https://i.redd.it/rbbr90ekj52i1.png" alt="what does directory even mean outside of linux" width="480" /></a><br />
-  <sub><b>what does directory even mean outside of linux</b> — r/linuxmemes · 3,040 upvotes</sub>
+  <a href="https://redd.it/1y13imc"><img src="https://i.redd.it/5deu3zterr2i1.png" alt="whenYouGoogleRecursionItSuggestsYouToGoogleRecursion" width="480" /></a><br />
+  <sub><b>whenYouGoogleRecursionItSuggestsYouToGoogleRecursion</b> — r/ProgrammerHumor · 3,422 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
