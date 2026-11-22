@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1y13imc"><img src="https://i.redd.it/5deu3zterr2i1.png" alt="whenYouGoogleRecursionItSuggestsYouToGoogleRecursion" width="480" /></a><br />
-  <sub><b>whenYouGoogleRecursionItSuggestsYouToGoogleRecursion</b> — r/ProgrammerHumor · 3,422 upvotes</sub>
+  <a href="https://redd.it/1y1rd5z"><img src="https://i.redd.it/qpbfr7yx6x2i1.png" alt="commentsInJson" width="480" /></a><br />
+  <sub><b>commentsInJson</b> — r/ProgrammerHumor · 4,911 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
