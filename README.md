@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1y1rd5z"><img src="https://i.redd.it/qpbfr7yx6x2i1.png" alt="commentsInJson" width="480" /></a><br />
-  <sub><b>commentsInJson</b> — r/ProgrammerHumor · 4,911 upvotes</sub>
+  <a href="https://redd.it/1y2krvn"><img src="https://i.redd.it/ry9x0ub1o43i1.png" alt="pythonSlow" width="480" /></a><br />
+  <sub><b>pythonSlow</b> — r/ProgrammerHumor · 8,185 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
