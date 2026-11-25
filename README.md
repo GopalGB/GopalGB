@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1y2xogr"><img src="https://i.redd.it/dw8z1onwt73i1.png" alt="oOfOnePrimeChecker" width="480" /></a><br />
-  <sub><b>oOfOnePrimeChecker</b> — r/ProgrammerHumor · 5,864 upvotes</sub>
+  <a href="https://redd.it/1y1dz0b"><img src="https://i.redd.it/6s2ekr7mut2i1.png" alt="interestingTimes" width="480" /></a><br />
+  <sub><b>interestingTimes</b> — r/ProgrammerHumor · 3,520 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
