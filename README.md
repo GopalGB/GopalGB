@@ -73,8 +73,8 @@ safe-for-work posts only. The script is in `.github/workflows/daily-meme.yml`.
 
 <!-- MEME:START -->
 <p align="center">
-  <a href="https://redd.it/1y557cw"><img src="https://i.redd.it/sj3zl7x8wq3i1.png" alt="getsBetterEveryHourIRefresh" width="480" /></a><br />
-  <sub><b>getsBetterEveryHourIRefresh</b> — r/ProgrammerHumor · 7,286 upvotes</sub>
+  <a href="https://redd.it/1y507pk"><img src="https://i.redd.it/6necvnddcp3i1.png" alt="devAndProject" width="480" /></a><br />
+  <sub><b>devAndProject</b> — r/ProgrammerHumor · 6,961 upvotes</sub>
 </p>
 <!-- MEME:END -->
 
